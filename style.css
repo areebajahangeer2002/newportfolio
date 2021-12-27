@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 93%;
+    margin-left: 50px;
+    align-items: center;
+    height: 110px;
+    background-color: orange;
+}
+div{
+    margin-left: 200px; 
+    margin-top: 10px;
+    position: absolute;
+}
+.logo{
+    
+    font-weight: 200;
+    color:white;
+    font-size: 35px;
+    font-weight: bolder;
+    
+}
+.second-logo{
+    
+    font-weight: 200;
+    color:white;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.logo-one{
+    font-family: Roboto;
+    
+    font-weight: 100;
+    color:white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.logo-two{
+    font-family: Roboto;
+    font-weight: 100;
+    color:white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.logos{
+    font-family: Roboto;
+    margin-top: 15px;
+    margin-left: 310px; 
+}
+.intro{
+    font-family: Roboto;
+    font-weight: 200;
+    justify-content: space-evenly; 
+    color:black;
+    width: 35%;
+    margin-left: 180px;
+    margin-top: 1px;
+   }
+ul{
+   
+    list-style: none;
+    display: flex;
+    color: black;
+    justify-content: space-evenly; 
+    width: 100%;
+    font-family: roboto;
+    font-weight: 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+img{ 
+    
+    width: 215%;
+    height: 70vh;
+    margin-left: -145px;
+    margin-top: 50px;
+}
+.text{
+    margin-top: 80px;
+    color: white;
+    font-size: 25px;
+    font-weight: 30px;
+    font-family: roboto;
+
+}
+.text-second{
+    color: white;
+    font-family: roboto;
+    font-size: 35px;
+    font-weight: bolder;
+  }
+.text-third{
+    font-weight: 10px;
+    font-family: roboto;
+    font-size: 20px;
+}
+.text-forth{
+    color: white;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: bolder;
+     
+}
